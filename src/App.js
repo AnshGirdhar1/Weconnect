@@ -1,9 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import CallScreen from './pages/CallScreen/CallScreen';
 
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
+      <CallScreen />
     </div>
   );
 }

@@ -1,0 +1,8 @@
+.video-display {
+    flex-grow: 1;
+}
+
+.video-display .video-frame {
+    border-radius: 20px;
+    border: 5px solid white;
+}
